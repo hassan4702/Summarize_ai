@@ -36,7 +36,7 @@ The **AI-Based Summarizer** is a cutting-edge tool designed to analyze and summa
    If using an external summarization service, add your API key to the `.env` file:
 
    ```ini
-   API_KEY=your-api-key-here
+   VITE_RAPID_API_ARTICLE_KEY=your_api_key
    ```
 
 ### Usage
